@@ -1,0 +1,15 @@
+current directory: /Users/macbook/Desktop/creasiatest/vendor/bundle/ruby/2.7.0/gems/nkf-0.2.0/ext/nkf
+/Users/macbook/.rvm/rubies/ruby-2.7.5/bin/ruby -I /Users/macbook/.rvm/rubies/ruby-2.7.5/lib/ruby/2.7.0 -r ./siteconf20240424-547-16bdj4i.rb extconf.rb
+creating Makefile
+
+current directory: /Users/macbook/Desktop/creasiatest/vendor/bundle/ruby/2.7.0/gems/nkf-0.2.0/ext/nkf
+make "DESTDIR=" clean
+
+current directory: /Users/macbook/Desktop/creasiatest/vendor/bundle/ruby/2.7.0/gems/nkf-0.2.0/ext/nkf
+make "DESTDIR="
+compiling nkf.c
+linking shared-object nkf.bundle
+
+current directory: /Users/macbook/Desktop/creasiatest/vendor/bundle/ruby/2.7.0/gems/nkf-0.2.0/ext/nkf
+make "DESTDIR=" install
+/opt/homebrew/opt/coreutils/bin/ginstall -c -m 0755 nkf.bundle ./.gem.20240424-547-1yzuiey
